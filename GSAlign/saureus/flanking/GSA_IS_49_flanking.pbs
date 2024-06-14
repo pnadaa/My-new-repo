@@ -1,0 +1,55 @@
+#!/bin/bash
+
+#PBS -N IS_49
+#PBS -l select=1:ncpus=8:mem=32gb
+#PBS -l walltime=12:00:00
+
+#PBS -j oe
+#PBS -M christopher.jin@unsw.edu.au
+#PBS -m ae
+
+cd /srv/scratch/z5312523/gsalign/GSAlign
+
+source /srv/scratch/z5312523/Miniconda3/etc/profile.d/conda.sh
+
+conda activate gsalign
+
+
+# while [ $x -le 57 ]
+# do
+#    echo
+#     echo "Test1 -- Generate index files with a reference file"
+#     x=$(( $x + 1 ))
+# done
+
+# indexing
+# to count number of files: ls -1 | wc -l
+# to rename from 1-xx: ls -v | cat -n | while read n f; do mv -n "$f" "$n.fna"; done 
+# x=1
+# while [ $x -le 57 ]
+# do
+#    echo
+#     echo "Generate index files with a reference file "$x".fna"
+#     # echo "Command=bin/bwt_index test/ecoli.fa test/ecoli"
+#     echo
+#     mkdir /srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_49/$x
+#     bin/bwt_index /srv/scratch/z5312523/gsalign/GSAlign/reference_genomes/$x.fna /srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_49/$x
+#     x=$(( $x + 1 ))
+# done
+
+
+# IS_49_flanking alignment
+x=1
+while [ $x -le 57 ]
+do
+    echo "Align two E.coli strains with 8 threads "$x".fna"
+    # echo "Command=bin/GSAlign -t 4 -i test/ecoli -q test/ecoli.mut -o test/output"
+    echo
+    mkdir /srv/scratch/z5312523/gsalign/GSAlign/saureus/flanking/IS_49_flanking/$x
+    bin/GSAlign -t 8 -i /srv/scratch/z5312523/gsalign/GSAlign/reference_genomes_index/$x -q /srv/scratch/z5312523/gsalign/GSAlign/saureus/flanking/IS_49_flanking.fna -o /srv/scratch/z5312523/gsalign/GSAlign/saureus/flanking/IS_49_flanking/$x/output
+    echo
+    # echo "[End of test]"
+    x=$(( $x + 1 ))
+done
+
+echo "[End of IS_49]"

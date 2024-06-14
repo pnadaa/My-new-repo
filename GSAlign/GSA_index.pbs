@@ -1,0 +1,27 @@
+x=1
+while [ $x -le 57 ]
+do
+    # echo "Align two E.coli strains with 8 threads "$x".fna"
+    # echo "Command=bin/GSAlign -t 4 -i test/ecoli -q test/ecoli.mut -o test/output"
+    echo
+    touch $x.index
+    mv $x.index "$x: $(head -1 /srv/scratch/z5312523/gsalign/GSAlign/reference_genomes/$x.fna)"
+    # bin/GSAlign -t 8 -i /srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_21/$x -q /srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_21.fna -o /srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_21/$x/output
+    echo
+    # echo "[End of test]"
+    x=$(( $x + 1 ))
+done
+
+x=1
+while [ $x -le 57 ]
+do
+    # echo "Align two E.coli strains with 8 threads "$x".fna"
+    # echo "Command=bin/GSAlign -t 4 -i test/ecoli -q test/ecoli.mut -o test/output"
+    echo
+    touch $x.index
+    mv $x.index "$x: $(head -1 /srv/scratch/z5312523/gsalign/GSAlign/reference_genomes/$x.fna)"
+    # bin/GSAlign -t 8 -i /srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_21/$x -q /srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_21.fna -o /srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_21/$x/output
+    echo
+    # echo "[End of test]"
+    x=$(( $x + 1 ))
+done

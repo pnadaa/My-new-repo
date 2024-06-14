@@ -1,0 +1,6 @@
+head: cannot open '/srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_3/40/output.maf' for reading: No such file or directory
+head: cannot open '/srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_3/40/output.maf' for reading: No such file or directory
+head: cannot open '/srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_21/19/output.maf' for reading: No such file or directory
+head: cannot open '/srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_21/19/output.maf' for reading: No such file or directory
+head: cannot open '/srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_49/19/output.maf' for reading: No such file or directory
+head: cannot open '/srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_49/19/output.maf' for reading: No such file or directory

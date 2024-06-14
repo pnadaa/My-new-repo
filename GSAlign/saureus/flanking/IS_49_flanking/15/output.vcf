@@ -1,0 +1,9 @@
+##fileformat=VCFv4.1
+##reference=/srv/scratch/z5312523/gsalign/GSAlign/reference_genomes_index/15
+##source=GSAlign 1.0.22
+##INFO=<ID=TYPE,Number=1,Type=String,Description="The type of allele, either SUBSTITUTE, INSERT, or DELETE.">
+##contig=<ID=NC_017331.1,length=3043210>
+##contig=<ID=NC_017352.1,length=29585>
+##contig=<ID=NC_017332.1,length=3011>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NC_017331.1	2473369	.	A	g	100	*	TYPE=SUBSTITUTE

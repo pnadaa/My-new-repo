@@ -1,0 +1,453 @@
+(1) >CP010943.1 Staphylococcus aureus strain 144_S7 chromosome
+a score=254
+
+(2) >NC_002745.2 Staphylococcus aureus subsp. aureus N315, complete sequence
+a score=350
+
+(3) >NC_002758.2 Staphylococcus aureus subsp. aureus Mu50, complete sequence
+a score=350
+
+(4) >NC_009782.1 Staphylococcus aureus subsp. aureus Mu3, complete sequence
+a score=312
+
+(5) >NC_009641.1 Staphylococcus aureus subsp. aureus str. Newman, complete sequence
+a score=918
+
+(6) >NC_003923.1 Staphylococcus aureus subsp. aureus MW2, complete sequence
+a score=302
+
+(7) >NC_002952.2 Staphylococcus aureus subsp. aureus MRSA252, complete sequence
+a score=310
+
+(8) >NC_002953.3 Staphylococcus aureus subsp. aureus MSSA476, complete sequence
+a score=302
+
+(9) >NC_002951.2 Staphylococcus aureus subsp. aureus COL, complete sequence
+a score=918
+
+(10) >NC_007795.1 Staphylococcus aureus subsp. aureus NCTC 8325 chromosome, complete genome
+a score=918
+
+(11) >NC_007793.1 Staphylococcus aureus subsp. aureus USA300_FPR3757, complete sequence
+a score=918
+
+(12) >NC_009487.1 Staphylococcus aureus subsp. aureus JH9, complete sequence
+a score=350
+
+(13) >NC_010079.1 Staphylococcus aureus subsp. aureus USA300_TCH1516, complete sequence
+a score=918
+
+(14) >NC_013450.1 Staphylococcus aureus subsp. aureus ED98, complete sequence
+a score=350
+
+(15) >NC_017331.1 Staphylococcus aureus subsp. aureus TW20, complete sequence
+a score=343
+
+(16) >NC_017338.2 Staphylococcus aureus subsp. aureus JKD6159, complete sequence
+a score=1
+
+(17) >NC_017341.1 Staphylococcus aureus subsp. aureus str. JKD6008, complete sequence
+a score=343
+
+(18) >NZ_CM000952.1 Staphylococcus aureus subsp. aureus MN8 chromosome, whole genome shotgun sequence
+a score=310
+
+(19) >JKD6009 NZ_LR027876
+a score=343
+
+(20) >NZ_ACKI01000040.1 Staphylococcus aureus A9635 cont1.40, whole genome shotgun sequence
+a score=333
+
+(21) >NC_017337.1 Staphylococcus aureus subsp. aureus ED133, complete sequence
+a score=275
+
+(22) >NC_016928.2 Staphylococcus aureus subsp. aureus M013, complete sequence
+a score=1
+
+(23) >NC_017349.1 Staphylococcus aureus subsp. aureus LGA251, complete sequence
+a score=250
+
+(24) >NC_017351.1 Staphylococcus aureus subsp. aureus 11819-97, complete sequence
+a score=889
+
+(25) >NC_017673.1 Staphylococcus aureus subsp. aureus 71193, complete sequence
+a score=244
+
+(26) >NC_017763.1 Staphylococcus aureus subsp. aureus HO 5096 0412, complete sequence
+a score=254
+
+(27) >NC_020566.1 Staphylococcus aureus subsp. aureus ST228, complete sequence
+a score=311
+
+(28) >NC_021554.1 Staphylococcus aureus CA-347, complete sequence
+a score=333
+
+(29) >NC_022226.1 Staphylococcus aureus subsp. aureus CN1, complete sequence
+a score=916
+
+(30) >NC_022442.1 Staphylococcus aureus subsp. aureus SA957, complete sequence
+a score=1
+
+(31) >NC_022604.1 Staphylococcus aureus subsp. aureus Z172, complete sequence
+a score=343
+
+(32) >NZ_CP007454.1 Staphylococcus aureus strain 502A isolate RN6607 chromosome, complete genome
+a score=350
+
+(33) >NZ_CP007659.1 Staphylococcus aureus strain H-EMRSA-15 chromosome, complete genome
+a score=254
+
+(34) >NZ_CP007447.1 Staphylococcus aureus strain XN108, complete genome
+a score=343
+
+(35) >NZ_CP006630.1 Staphylococcus aureus subsp. aureus SA268 chromosome, complete genome
+a score=1
+
+(36) >NZ_CP009361.1 Staphylococcus aureus strain ATCC 25923 chromosome, complete genome
+a score=310
+
+(37) >NZ_CP010526.1 Staphylococcus aureus subsp. aureus ST772-MRSA-V strain DAR4145 chromosome, complete genome
+a score=1
+
+(38) >NC_020532.1 Staphylococcus aureus subsp. aureus ST228, complete sequence
+a score=311
+
+(39) >NZ_CP010402.1 Staphylococcus aureus strain GR2 chromosome, complete genome
+a score=889
+
+(40) >NZ_CP012756.1 Staphylococcus aureus strain JS395 chromosome, complete genome
+
+(41) >NZ_CP013137.1 Staphylococcus aureus strain XQ chromosome, complete genome
+a score=896
+
+(42) >NZ_LN831036.1 Staphylococcus aureus strain NCTC13435 chromosome 1, complete sequence
+a score=889
+
+(43) >NZ_CP013619.1 Staphylococcus aureus strain RIVM1607 chromosome, complete genome
+a score=244
+
+(44) >NZ_AP014652.1 Staphylococcus aureus strain TMUS2126 chromosome, complete genome
+a score=916
+
+(45) >NZ_CP010998.1 Staphylococcus aureus strain FORC_012 isolate human sputum chromosome, complete genome
+a score=916
+
+(46) >NZ_CP014791.1 Staphylococcus aureus strain MCRF184 chromosome, complete genome
+a score=333
+
+(47) >NZ_CP013218.1 Staphylococcus aureus strain LA-MRSA ST398 isolate E154 chromosome, complete genome
+a score=244
+
+(48) >NZ_CP019574.1 Staphylococcus aureus strain USA400-0051 chromosome, complete genome
+a score=302
+
+(49) >NZ_CP022582.1 Staphylococcus aureus strain FORC_062 chromosome, complete genome
+a score=350
+
+(50) >NZ_CP029474.1 Staphylococcus aureus strain USA 100 isolate 30-47 chromosome, complete genome
+a score=350
+
+(51) >NZ_CP040622.1 Staphylococcus aureus strain JKD6004 chromosome, complete genome
+a score=343
+
+(52) >NZ_CP047021.1 Staphylococcus aureus strain M2024 chromosome, complete genome
+a score=865
+
+(53) >NZ_CP065857.1 Staphylococcus aureus strain CC1153-MRSA chromosome, complete genome
+a score=443
+
+(54) >NZ_CP101124.1 Staphylococcus aureus subsp. aureus RN4220 chromosome, complete genome
+a score=918
+
+(55) >NZ_CP130529.1 Staphylococcus aureus strain SA17-SX chromosome, complete genome
+a score=254
+
+(56) >NZ_LN854556.1 Staphylococcus aureus strain BB155 chromosome 1, complete sequence
+a score=1
+
+(57) >NZ_LT615218.1 Staphylococcus aureus strain AUS0325 chromosome 1
+a score=252
+
+full details:
+
+(1) >CP010943.1 Staphylococcus aureus strain 144_S7 chromosome
+a  score=254                                
+s  ref.CP010943.1  235734  254  +  2730860  aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaag
+s  qry.IS_3        0       254  +  918      aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaag
+
+(2) >NC_002745.2 Staphylococcus aureus subsp. aureus N315, complete sequence
+a  score=350                                  
+s  ref.NC_002745.2  1839536  356  +  2814816  aaaaaataagacactttgcccaacttacactaccaataGaaacttctgttagaattcctTaaaatgatatttcgcgaTATGTAAATGAAATTGTTGAAACGATACCTGATAGCGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+s  qry.IS_3         468      356  +  918      aaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(3) >NC_002758.2 Staphylococcus aureus subsp. aureus Mu50, complete sequence
+a  score=350                                  
+s  ref.NC_002758.2  1917329  356  +  2878529  aaaaaataagacactttgcccaacttacactaccaataGaaacttctgttagaattcctTaaaatgatatttcgcgaTATGTAAATGAAATTGTTGAAACGATACCTGATAGCGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+s  qry.IS_3         468      356  +  918      aaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(4) >NC_009782.1 Staphylococcus aureus subsp. aureus Mu3, complete sequence
+a  score=312                                  
+s  ref.NC_009782.1  1918767  317  +  2880168  aaacttctgttagaattcctTaaaatgatatttcgcgaTATGTAAATGAAATTGTTGAAACGATACCTGATAGCGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+s  qry.IS_3         507      317  +  918      aaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(5) >NC_009641.1 Staphylococcus aureus subsp. aureus str. Newman, complete sequence
+a  score=918                                 
+s  ref.NC_009641.1  263901  918  +  2878897  aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+s  qry.IS_3         0       918  +  918      aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+
+(6) >NC_003923.1 Staphylococcus aureus subsp. aureus MW2, complete sequence
+a  score=302                                  
+s  ref.NC_003923.1  1430499  310  +  2820462  aaaaaataagacactttgcccaacttacactaccaataGaaacttctgttagaattcctcaaaatgatatttcACGATatgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAATGATGTTAAAAATTATCTTATATGCATACACTCAATCTGTAttttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaaAatcaaacaccttcttataaaactattaatcgttttagagt
+s  qry.IS_3         468      310  +  918      aaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagt
+
+(7) >NC_002952.2 Staphylococcus aureus subsp. aureus MRSA252, complete sequence
+a  score=310                                  
+s  ref.NC_002952.2  1006153  317  +  2902619  aaacttctgttagaattcctcaaaatgatatttcgcgaTATGTTAATGAAATTTTTGAAACTATACCTGATAGCGAATTCGATGAATTCAGACATCATCGTGGTGCAACATCCTATCATCCAAAAatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgCtaattgaatctttatttattcagttc
+s  qry.IS_3         507      317  +  918      aaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(8) >NC_002953.3 Staphylococcus aureus subsp. aureus MSSA476, complete sequence
+a  score=302                                  
+s  ref.NC_002953.3  1459053  310  +  2799802  aaaaaataagacactttgcccaacttacactaccaataGaaacttctgttagaattcctcaaaatgatatttcACGATatgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAATGATGTTAAAAATTATCTTATATGCATACACTCAATCTGTAttttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaaAatcaaacaccttcttataaaactattaatcgttttagagt
+s  qry.IS_3         468      310  +  918      aaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagt
+
+(9) >NC_002951.2 Staphylococcus aureus subsp. aureus COL, complete sequence
+a  score=918                                 
+s  ref.NC_002951.2  297837  918  +  2809422  aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+s  qry.IS_3         0       918  +  918      aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+
+(10) >NC_007795.1 Staphylococcus aureus subsp. aureus NCTC 8325 chromosome, complete genome
+a  score=918                                 
+s  ref.NC_007795.1  263924  918  +  2821361  aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+s  qry.IS_3         0       918  +  918      aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+
+(11) >NC_007793.1 Staphylococcus aureus subsp. aureus USA300_FPR3757, complete sequence
+a  score=918                                 
+s  ref.NC_007793.1  318514  918  +  2872769  aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+s  qry.IS_3         0       918  +  918      aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+
+(12) >NC_009487.1 Staphylococcus aureus subsp. aureus JH9, complete sequence
+a  score=350                                  
+s  ref.NC_009487.1  1962658  356  +  2906700  aaaaaataagacactttgcccaacttacactaccaataGaaacttctgttagaattcctTaaaatgatatttcgcgaTATGTAAATGAAATTGTTGAAACGATACCTGATAGCGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+s  qry.IS_3         468      356  +  918      aaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(13) >NC_010079.1 Staphylococcus aureus subsp. aureus USA300_TCH1516, complete sequence
+a  score=918                                 
+s  ref.NC_010079.1  318409  918  +  2872915  aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+s  qry.IS_3         0       918  +  918      aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+
+(14) >NC_013450.1 Staphylococcus aureus subsp. aureus ED98, complete sequence
+a  score=350                                  
+s  ref.NC_013450.1  1862140  356  +  2824404  aaaaaataagacactttgcccaacttacactaccaataGaaacttctgttagaattcctTaaaatgatatttcgcgaTATGTAAATGAAATTGTTGAAACGATACCTGATAGCGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+s  qry.IS_3         468      356  +  918      aaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(15) >NC_017331.1 Staphylococcus aureus subsp. aureus TW20, complete sequence
+a  score=343                                  
+s  ref.NC_017331.1  1933651  349  +  3043210  agcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttTACATACTTT-AAAAAATAAGACACTTTGCCCAACTTACACTACCAATAGAAACCTCTGTTAGAATTCCTCAAAATGATATTTCGCGATatgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaa
+s  qry.IS_3         281      350  +  918      agcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaa
+
+(16) >NC_017338.2 Staphylococcus aureus subsp. aureus JKD6159, complete sequence
+a  score=1                                    
+s  ref.NC_017338.2  1866009  317  +  2818670  GAACTGAATAAATAAAGATTCAATTAGCGCATCAGTATTAGGATTCACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATCTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTATATGCATATAAGATGATTTTTAACATCATTTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTCGCTATCAGGTATAGTTTCAACAATTTCATTAACATATCGCGAAATATCATTTTGAGGAATTCTAACAGAAGTTT
+s  qry.IS_3         94       317  -  918      GAACTGAATAAATAAAGATTCAATTAACGCATCAGTATTAGGATTCACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATCTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTATATGCATATAAGATGATTTTTAACATCATCTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTTGCTATCAGGTATCGTTTCAACAATTTCATTAACATGTCGCGAAATATCATTTTGAGGAATTCTAACAGAAGTTT
+
+(17) >NC_017341.1 Staphylococcus aureus subsp. aureus str. JKD6008, complete sequence
+a  score=343                                  
+s  ref.NC_017341.1  1890028  349  +  2924344  agcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttTACATACTTT-AAAAAATAAGACACTTTGCCCAACTTACACTACCAATAGAAACCTCTGTTAGAATTCCTCAAAATGATATTTCGCGATatgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaa
+s  qry.IS_3         281      350  +  918      agcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaa
+
+(18) >NZ_CM000952.1 Staphylococcus aureus subsp. aureus MN8 chromosome, whole genome shotgun sequence
+a  score=310                                    
+s  ref.NZ_CM000952.1  2897643  317  +  2899588  GAACTGAATAAATAAAGATTCAATTAGCGCATCAGTATTAGGATTCACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATCTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTATATGCATATAAGATGATTTTTAACATCATTTTTGGATGATAGGATGTTGCACCACGATGATGTCTGAATTCATCGAATTCGCTATCAGGTATAGTTTCAAAAATTTCATTAACATATCGCGAAATATCATTTTGAGGAATTCTAACAGAAGTTT
+s  qry.IS_3           94       317  -  918      GAACTGAATAAATAAAGATTCAATTAACGCATCAGTATTAGGATTCACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATCTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTATATGCATATAAGATGATTTTTAACATCATCTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTTGCTATCAGGTATCGTTTCAACAATTTCATTAACATGTCGCGAAATATCATTTTGAGGAATTCTAACAGAAGTTT
+
+(19) >JKD6009 NZ_LR027876
+a  score=343                              
+s  ref.JKD6009  1895287  349  +  2930439  agcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttTACATACTTT-AAAAAATAAGACACTTTGCCCAACTTACACTACCAATAGAAACCTCTGTTAGAATTCCTCAAAATGATATTTCGCGATatgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaa
+s  qry.IS_3     281      350  +  918      agcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaa
+
+(20) >NZ_ACKI01000040.1 Staphylococcus aureus A9635 cont1.40, whole genome shotgun sequence
+a  score=333                                    
+s  ref.NZ_ACKI01000004.1  1202  338  +  101181  GAACTGAATAAATAAAGATTCAATTAACGCATCAGTATTAGGATTCACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATCTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTATATGCATATCAGATGATTTTTAACATCATTTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTCGCTATCAGGTATCGTTTCAACAATTTCATTAACATATCGCGAAATATCATTTTGAGGAATTCTAACAGAAGTTTCTATTGGTAGTGTAAGTTGGG
+s  qry.IS_3               94    338  -  918     GAACTGAATAAATAAAGATTCAATTAACGCATCAGTATTAGGATTCACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATCTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTATATGCATATAAGATGATTTTTAACATCATCTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTTGCTATCAGGTATCGTTTCAACAATTTCATTAACATGTCGCGAAATATCATTTTGAGGAATTCTAACAGAAGTTTTTATTGGTAGTGTAAGTTGGG
+
+(21) >NC_017337.1 Staphylococcus aureus subsp. aureus ED133, complete sequence
+a  score=275                                
+s  ref.NC_017337.1  41190  278  +  2832478  atgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgaTagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+s  qry.IS_3         546    278  +  918      atgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(22) >NC_016928.2 Staphylococcus aureus subsp. aureus M013, complete sequence
+a  score=1                                   
+s  ref.NC_016928.2  978614  338  +  2795015  cccaacttacactaccaataGaaacttctgttagaattcctcaaaatgatatttcgcgaTatgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+s  qry.IS_3         486     338  +  918      cccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(23) >NC_017349.1 Staphylococcus aureus subsp. aureus LGA251, complete sequence
+a  score=250                                  
+s  ref.NC_017349.1  2055501  260  +  2750834  ccaacttacactaccaataGaaacttctgttagaattcctcaaaatgatatttcgcgaTatgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaaAatcctatcatccaaaAatgatgttaaaaatcatcttataCGCATATACTTaatctgtattttctggtcgtagaatagagaaattacttcatAACAGTATTCGAATAGtgtggttagctcaagatcaaacac
+s  qry.IS_3         487      260  +  918      ccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacac
+
+(24) >NC_017351.1 Staphylococcus aureus subsp. aureus 11819-97, complete sequence
+a  score=889                                 
+s  ref.NC_017351.1  306853  896  +  2846546  aagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacTtctaaattaatgttaactgattttcaaaaGGACaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttTaaaaaataagacactttgcccaacttacactaccaataGaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttgAatttcttgtatatcattttaaagtgataTagatatttcgaaacataattcttctattatatttaagatttaac
+s  qry.IS_3         16      896  +  918      aagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaac
+
+(25) >NC_017673.1 Staphylococcus aureus subsp. aureus 71193, complete sequence
+a  score=244                                  
+s  ref.NC_017673.1  2126050  250  +  2715000  GCATCAGTATTAGGATTTACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATTTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTGTATGCATATAAGATAATTTTTAACATCATTTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTCGCTATCAGGTATCGTTTCAACAATTTCATTAACAT
+s  qry.IS_3         122      250  -  918      GCATCAGTATTAGGATTCACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATCTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTATATGCATATAAGATGATTTTTAACATCATCTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTTGCTATCAGGTATCGTTTCAACAATTTCATTAACAT
+
+(26) >NC_017763.1 Staphylococcus aureus subsp. aureus HO 5096 0412, complete sequence
+a  score=254                                 
+s  ref.NC_017763.1  291038  254  +  2832299  aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaag
+s  qry.IS_3         0       254  +  918      aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaag
+
+(27) >NC_020566.1 Staphylococcus aureus subsp. aureus ST228, complete sequence
+a  score=311                                  
+s  ref.NC_020566.1  1817920  317  +  2759457  aaacttctgttagaatCcctcaaaatgatatttcACGATatgttaatgaaattgttgaaacAATACCTGATAGCGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+s  qry.IS_3         507      317  +  918      aaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(28) >NC_021554.1 Staphylococcus aureus CA-347, complete sequence
+a  score=333                                  
+s  ref.NC_021554.1  2309571  338  +  2850503  GAACTGAATAAATAAAGATTCAATTAACGCATCAGTATTAGGATTCACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATCTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTATATGCATATCAGATGATTTTTAACATCATTTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTCGCTATCAGGTATCGTTTCAACAATTTCATTAACATATCGCGAAATATCATTTTGAGGAATTCTAACAGAAGTTTCTATTGGTAGTGTAAGTTGGG
+s  qry.IS_3         94       338  -  918      GAACTGAATAAATAAAGATTCAATTAACGCATCAGTATTAGGATTCACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATCTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTATATGCATATAAGATGATTTTTAACATCATCTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTTGCTATCAGGTATCGTTTCAACAATTTCATTAACATGTCGCGAAATATCATTTTGAGGAATTCTAACAGAAGTTTTTATTGGTAGTGTAAGTTGGG
+
+(29) >NC_022226.1 Staphylococcus aureus subsp. aureus CN1, complete sequence
+a  score=916                                 
+s  ref.NC_022226.1  280686  918  +  2751266  aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataGaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttgAatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+s  qry.IS_3         0       918  +  918      aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+
+(30) >NC_022442.1 Staphylococcus aureus subsp. aureus SA957, complete sequence
+a  score=1                                    
+s  ref.NC_022442.1  1013351  317  +  2789538  aaacttctgttagaattcctcaaaatgatatttcgcgaTatgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+s  qry.IS_3         507      317  +  918      aaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(31) >NC_022604.1 Staphylococcus aureus subsp. aureus Z172, complete sequence
+a  score=343                                  
+s  ref.NC_022604.1  1934830  349  +  2987966  agcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttTACATACTTT-AAAAAATAAGACACTTTGCCCAACTTACACTACCAATAGAAACCTCTGTTAGAATTCCTCAAAATGATATTTCGCGATatgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaa
+s  qry.IS_3         281      350  +  918      agcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaa
+
+(32) >NZ_CP007454.1 Staphylococcus aureus strain 502A isolate RN6607 chromosome, complete genome
+a  score=350                                    
+s  ref.NZ_CP007454.1  2059253  356  +  2764699  GAACTGAATAAATAAAGATTCAATTAACGCATCAGTATTAGGATTCACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATCTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTATATGCATATAAGATGATTTTTAACATCATTTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTCGCTATCAGGTATCGTTTCAACAATTTCATTTACATATCGCGAAATATCATTTTAAGGAATTCTAACAGAAGTTTCTATTGGTAGTGTAAGTTGGGCAAAGTGTCTTATTTTTT
+s  qry.IS_3           94       356  -  918      GAACTGAATAAATAAAGATTCAATTAACGCATCAGTATTAGGATTCACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATCTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTATATGCATATAAGATGATTTTTAACATCATCTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTTGCTATCAGGTATCGTTTCAACAATTTCATTAACATGTCGCGAAATATCATTTTGAGGAATTCTAACAGAAGTTTTTATTGGTAGTGTAAGTTGGGCAAAGTGTCTTATTTTTT
+
+(33) >NZ_CP007659.1 Staphylococcus aureus strain H-EMRSA-15 chromosome, complete genome
+a  score=254                                   
+s  ref.NZ_CP007659.1  291014  254  +  2846320  aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaag
+s  qry.IS_3           0       254  +  918      aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaag
+
+(34) >NZ_CP007447.1 Staphylococcus aureus strain XN108, complete genome
+a  score=343                                    
+s  ref.NZ_CP007447.1  1903338  349  +  3052055  agcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttTACATACTTT-AAAAAATAAGACACTTTGCCCAACTTACACTACCAATAGAAACCTCTGTTAGAATTCCTCAAAATGATATTTCGCGATatgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaa
+s  qry.IS_3           281      350  +  918      agcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaa
+
+(35) >NZ_CP006630.1 Staphylococcus aureus subsp. aureus SA268 chromosome, complete genome
+a  score=1                                     
+s  ref.NZ_CP006630.1  962413  317  +  2833899  aaacttctgttagaattcctcaaaatgatatttcgcgaTatgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+s  qry.IS_3           507     317  +  918      aaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(36) >NZ_CP009361.1 Staphylococcus aureus strain ATCC 25923 chromosome, complete genome
+a  score=310                                   
+s  ref.NZ_CP009361.1  933685  317  +  2778854  aaacttctgttagaattcctcaaaatgatatttcgcgaTATGTTAATGAAATTTTTGAAACTATACCTGATAGCGAATTCGATGAATTCAGACATCATCGTGGTGCAACATCCTATCATCCAAAAatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgCtaattgaatctttatttattcagttc
+s  qry.IS_3           507     317  +  918      aaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(37) >NZ_CP010526.1 Staphylococcus aureus subsp. aureus ST772-MRSA-V strain DAR4145 chromosome, complete genome
+a  score=1                                     
+s  ref.NZ_CP010526.1  487052  278  +  2860508  atgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaaCactgatgcgttaattgaatctttatttattcagttc
+s  qry.IS_3           546     278  +  918      atgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(38) >NC_020532.1 Staphylococcus aureus subsp. aureus ST228, complete sequence
+a  score=311                                  
+s  ref.NC_020532.1  1818279  317  +  2759883  aaacttctgttagaatCcctcaaaatgatatttcACGATatgttaatgaaattgttgaaacAATACCTGATAGCGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+s  qry.IS_3         507      317  +  918      aaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(39) >NZ_CP010402.1 Staphylococcus aureus strain GR2 chromosome, complete genome
+a  score=889                                   
+s  ref.NZ_CP010402.1  295271  896  +  2792802  aagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacTtctaaattaatgttaactgattttcaaaaGGACaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttTaaaaaataagacactttgcccaacttacactaccaataGaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttgAatttcttgtatatcattttaaagtgataTagatatttcgaaacataattcttctattatatttaagatttaac
+s  qry.IS_3           16      896  +  918      aagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaac
+
+(40) >NZ_CP012756.1 Staphylococcus aureus strain JS395 chromosome, complete genome
+
+(41) >NZ_CP013137.1 Staphylococcus aureus strain XQ chromosome, complete genome
+a  score=896                                    
+s  ref.NZ_CP013137.1  2561069  916  +  2803594  aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaGGACaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagCGGCTGGGACATACATCCAtaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcCtcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaa-TAAGACCctttgcccaacttacactaccaataGaaacttctgttagaattcctcaaaatgatatttcgcgaTatgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcCTGGCGCAACACCCTATCATCCAAAAATGATGTTAAAAatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttt-CTTGAATTTGATGCGtatcattttaaagtgataCagatatttcgaaacatGattcttctattatatttaagatttaactgtttt
+s  qry.IS_3           0        918  +  918      aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+
+(42) >NZ_LN831036.1 Staphylococcus aureus strain NCTC13435 chromosome 1, complete sequence
+a  score=889                                   
+s  ref.NZ_LN831036.1  294640  896  +  2797452  aagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacTtctaaattaatgttaactgattttcaaaaGGACaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttTaaaaaataagacactttgcccaacttacactaccaataGaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttgAatttcttgtatatcattttaaagtgataTagatatttcgaaacataattcttctattatatttaagatttaac
+s  qry.IS_3           16      896  +  918      aagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaac
+
+(43) >NZ_CP013619.1 Staphylococcus aureus strain RIVM1607 chromosome, complete genome
+a  score=244                                    
+s  ref.NZ_CP013619.1  2179625  250  +  2769573  GCATCAGTATTAGGATTTACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATTTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTGTATGCATATAAGATAATTTTTAACATCATTTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTCGCTATCAGGTATCGTTTCAACAATTTCATTAACAT
+s  qry.IS_3           122      250  -  918      GCATCAGTATTAGGATTCACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATCTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTATATGCATATAAGATGATTTTTAACATCATCTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTTGCTATCAGGTATCGTTTCAACAATTTCATTAACAT
+
+(44) >NZ_AP014652.1 Staphylococcus aureus strain TMUS2126 chromosome, complete genome
+a  score=916                                   
+s  ref.NZ_AP014652.1  281910  918  +  2770164  aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataGaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttgAatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+s  qry.IS_3           0       918  +  918      aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+
+(45) >NZ_CP010998.1 Staphylococcus aureus strain FORC_012 isolate human sputum chromosome, complete genome
+a  score=916                                    
+s  ref.NZ_CP010998.1  2269845  918  +  2815416  aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataGaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttgAatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+s  qry.IS_3           0        918  +  918      aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+
+(46) >NZ_CP014791.1 Staphylococcus aureus strain MCRF184 chromosome, complete genome
+a  score=333                                    
+s  ref.NZ_CP014791.1  2126734  338  +  2664662  GAACTGAATAAATAAAGATTCAATTAACGCATCAGTATTAGGATTCACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATCTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTATATGCATATCAGATGATTTTTAACATCATTTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTCGCTATCAGGTATCGTTTCAACAATTTCATTAACATATCGCGAAATATCATTTTGAGGAATTCTAACAGAAGTTTCTATTGGTAGTGTAAGTTGGG
+s  qry.IS_3           94       338  -  918      GAACTGAATAAATAAAGATTCAATTAACGCATCAGTATTAGGATTCACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATCTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTATATGCATATAAGATGATTTTTAACATCATCTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTTGCTATCAGGTATCGTTTCAACAATTTCATTAACATGTCGCGAAATATCATTTTGAGGAATTCTAACAGAAGTTTTTATTGGTAGTGTAAGTTGGG
+
+(47) >NZ_CP013218.1 Staphylococcus aureus strain LA-MRSA ST398 isolate E154 chromosome, complete genome
+a  score=244                                    
+s  ref.NZ_CP013218.1  2242434  250  +  2831848  GCATCAGTATTAGGATTTACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATTTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTGTATGCATATAAGATAATTTTTAACATCATTTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTCGCTATCAGGTATCGTTTCAACAATTTCATTAACAT
+s  qry.IS_3           122      250  -  918      GCATCAGTATTAGGATTCACTCTAAAACGATTAATAGTTTTATAAGAAGGTGTTTGATCTTGAGCTAACCACATCATTCGAATACTGTCATGAAGTAATTTCTCTATTCTACGACCAGAAAATACAGATTGAGTATATGCATATAAGATGATTTTTAACATCATCTTTGGATGATAGGATGTTGCGCCACGATGATGTCTGAATTCATCGAATTTGCTATCAGGTATCGTTTCAACAATTTCATTAACAT
+
+(48) >NZ_CP019574.1 Staphylococcus aureus strain USA400-0051 chromosome, complete genome
+a  score=302                                    
+s  ref.NZ_CP019574.1  1424930  310  +  2811886  aaaaaataagacactttgcccaacttacactaccaataGaaacttctgttagaattcctcaaaatgatatttcACGATatgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAATGATGTTAAAAATTATCTTATATGCATACACTCAATCTGTAttttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaaAatcaaacaccttcttataaaactattaatcgttttagagt
+s  qry.IS_3           468      310  +  918      aaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagt
+
+(49) >NZ_CP022582.1 Staphylococcus aureus strain FORC_062 chromosome, complete genome
+a  score=350                                    
+s  ref.NZ_CP022582.1  1987244  356  +  2905353  aaaaaataagacactttgcccaacttacactaccaataGaaacttctgttagaattcctTaaaatgatatttcgcgaTATGTAAATGAAATTGTTGAAacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+s  qry.IS_3           468      356  +  918      aaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(50) >NZ_CP029474.1 Staphylococcus aureus strain USA 100 isolate 30-47 chromosome, complete genome
+a  score=350                                    
+s  ref.NZ_CP029474.1  2533608  356  +  2761011  aaaaaataagacactttgcccaacttacactaccaataGaaacttctgttagaattcctTaaaatgatatttcgcgaTATGTAAATGAAATTGTTGAAACGATACCTGATAGCGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+s  qry.IS_3           468      356  +  918      aaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(51) >NZ_CP040622.1 Staphylococcus aureus strain JKD6004 chromosome, complete genome
+a  score=343                                    
+s  ref.NZ_CP040622.1  1909148  349  +  2936830  agcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttTACATACTTT-AAAAAATAAGACACTTTGCCCAACTTACACTACCAATAGAAACCTCTGTTAGAATTCCTCAAAATGATATTTCGCGATatgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaa
+s  qry.IS_3           281      350  +  918      agcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaa
+
+(52) >NZ_CP047021.1 Staphylococcus aureus strain M2024 chromosome, complete genome
+a  score=865                                   
+s  ref.NZ_CP047021.1  284570  868  +  2791940  aagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataGaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttgAatttcttgtatatcattttaaagtgataCagatatttcgaaacat
+s  qry.IS_3           16      868  +  918      aagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacat
+
+(53) >NZ_CP065857.1 Staphylococcus aureus strain CC1153-MRSA chromosome, complete genome
+a  score=443                                   
+s  ref.NZ_CP065857.1  306121  448  +  2827195  aaaataagacactttgcccaacttacactaccaataGAAACTTCTGTTAGAATTCCTTAAAATGATATTTCGCGACatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttgAatttcttgtatatcattttaaCgtgataaagatatttcgaaacataatGcttctattatatttaagatttaactgtttt
+s  qry.IS_3           470     448  +  918      aaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+
+(54) >NZ_CP101124.1 Staphylococcus aureus subsp. aureus RN4220 chromosome, complete genome
+a  score=918                                   
+s  ref.NZ_CP101124.1  263407  918  +  2697642  aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+s  qry.IS_3           0       918  +  918      aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaagaggctgggacataaatccctaaaaaacagcagtaagataattttcaattagaaaatatcttactgctgttctctatttatacaatacttcgtattgaatggcttcgctttcctagggtgccgtctcagcctcggtcttcgactggcactgctccctcaggagtctcgccattaatactacgtattaacatgtaattttactttgaaatactttaaaaaaataagacactttgcccaacttacactaccaataaaaacttctgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttcgcttatttttcttggatttcttgtatatcattttaaagtgataaagatatttcgaaacataattcttctattatatttaagatttaactgtttt
+
+(55) >NZ_CP130529.1 Staphylococcus aureus strain SA17-SX chromosome, complete genome
+a  score=254                                   
+s  ref.NZ_CP130529.1  268083  254  +  2801904  aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaag
+s  qry.IS_3           0       254  +  918      aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaag
+
+(56) >NZ_LN854556.1 Staphylococcus aureus strain BB155 chromosome 1, complete sequence
+a  score=1                                      
+s  ref.NZ_LN854556.1  1271881  310  +  2778079  tgttagaattcctcaaaatgatatttcgcgaTatgttaatgaaattgttgaaacgatacctgatagcGaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaaAatgatgttaaaaatcatcttatatgcatatactcaatctgtGttttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaacAATTAATCGGTTTAGAGTAaatcctaatactgatgcgttaattgaatctttatttattcagttc
+s  qry.IS_3           514      310  +  918      tgttagaattcctcaaaatgatatttcgcgacatgttaatgaaattgttgaaacgatacctgatagcaaattcgatgaattcagacatcatcgtggcgcaacatcctatcatccaaagatgatgttaaaaatcatcttatatgcatatactcaatctgtattttctggtcgtagaatagagaaattacttcatgacagtattcgaatgatgtggttagctcaagatcaaacaccttcttataaaactattaatcgttttagagtgaatcctaatactgatgcgttaattgaatctttatttattcagttc
+
+(57) >NZ_LT615218.1 Staphylococcus aureus strain AUS0325 chromosome 1
+a  score=252                                   
+s  ref.NZ_LT615218.1  254080  254  +  2771577  aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaGGATaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaag
+s  qry.IS_3           0       254  +  918      aagacatttgaaattaaagaaacagtagaattatcatatgatgctgttaatcgtattgtgttaaaagatggatggttatttagaaaaatgagaatagaaacaatgcaaaaagtgttaaaatacggtacatctaaattaatgttaactgattttcaaaaagagaattataataaatatattcaaggtcagaaacaacgcgtgatatttgaaaatggccattttgtctaattgatagtgaatataattagagtaag

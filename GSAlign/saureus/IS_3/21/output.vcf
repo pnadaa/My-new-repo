@@ -1,0 +1,11 @@
+##fileformat=VCFv4.1
+##reference=/srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_3/21
+##source=GSAlign 1.0.22
+##INFO=<ID=TYPE,Number=1,Type=String,Description="The type of allele, either SUBSTITUTE, INSERT, or DELETE.">
+##contig=<ID=NC_017337.1,length=2832478>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NC_017337.1	41226	.	G	a	100	*	TYPE=SUBSTITUTE
+NC_017337.1	41276	.	A	g	100	*	TYPE=SUBSTITUTE
+NC_017337.1	41354	.	T	c	100	*	TYPE=SUBSTITUTE
+NC_017337.1	263725	.	G	a	100	*	TYPE=SUBSTITUTE
+NC_017337.1	263728	.	T	g	100	*	TYPE=SUBSTITUTE

@@ -1,0 +1,8 @@
+##fileformat=VCFv4.1
+##reference=/srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_3/57
+##source=GSAlign 1.0.22
+##INFO=<ID=TYPE,Number=1,Type=String,Description="The type of allele, either SUBSTITUTE, INSERT, or DELETE.">
+##contig=<ID=NZ_LT615218.1,length=2771577>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NZ_LT615218.1	254239	.	G	a	100	*	TYPE=SUBSTITUTE
+NZ_LT615218.1	254242	.	T	g	100	*	TYPE=SUBSTITUTE

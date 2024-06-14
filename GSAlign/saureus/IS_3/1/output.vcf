@@ -1,0 +1,6 @@
+##fileformat=VCFv4.1
+##reference=/srv/scratch/z5312523/gsalign/GSAlign/saureus/IS_3/1
+##source=GSAlign 1.0.22
+##INFO=<ID=TYPE,Number=1,Type=String,Description="The type of allele, either SUBSTITUTE, INSERT, or DELETE.">
+##contig=<ID=CP010943.1,length=2730860>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
